@@ -1,0 +1,3 @@
+#FIRST
+
+print('oia')
